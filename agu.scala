@@ -86,15 +86,26 @@ class aguTests(c: agu) extends Tester(c){
 	poke(c.io.in.bits.skip,10)
 	poke(c.io.in.bits.filterCols,3)
 	poke(c.io.in.bits.filterRows,3)
-	step(1)
-	
+
+
+	println("pRow:"+peek(c.pRow)+
+			" tempAddr:"+peek(c.tempBaseAddress)+
+			" rBase:"+peek(c.rBaseAddress)+
+			" rStride:"+peek(c.rStride)+
+			" rSkip:"+peek(c.rSkip)+
+			" |pCols:"+peek(c.pCols)+
+			" finalAddr:"+peek(c.io.finalAddress.bits))
+
 	for(i <- 0 until 9){
 		//peek(c.io.finalAddress.bits)
 		//peek(c.io.finalAddress.valid)
 
 		step(1)
-		println("pRow:"+peek(c.pRow)+
+			println("pRow:"+peek(c.pRow)+
 			" tempAddr:"+peek(c.tempBaseAddress)+
+			" rBase:"+peek(c.rBaseAddress)+
+			" rStride:"+peek(c.rStride)+
+			" rSkip:"+peek(c.rSkip)+
 			" |pCols:"+peek(c.pCols)+
 			" finalAddr:"+peek(c.io.finalAddress.bits))
 	}
