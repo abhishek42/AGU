@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/agu_2.10-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/aguTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/aguTests.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/aguData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/aguData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$mcV$sp$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$2$$anonfun$apply$mcV$sp$1$$anonfun$apply$mcV$sp$2$$anonfun$apply$mcV$sp$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/aguTests$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/aguTests$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	agu/agu$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cadl/chisel2tutorial/chisel-tutorial/agu/target/scala-2.10/classes/agu/agu$$anonfun$main$1$$anonfun$apply$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
